@@ -1,0 +1,11 @@
+/* Tamaño global de las cajas */
+:root {
+    box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+    box-sizing: border-box;
+}
+
